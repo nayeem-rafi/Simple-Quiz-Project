@@ -84,9 +84,9 @@ Here’s an example of how the program runs:
    - 2. Pablo Picasso
    - 3. Leonardo da Vinci
    - 4. Claude Monet  
-   **Your answer:** 3
+   **Your answer:** 4
 
-Your Total Score is **4.75 out of 5.00**.
+Your Total Score is **3.75 out of 5.00**.
 
 ## Project Structure
 - `Quiz.c`: The main C file that contains the quiz program logic.
